@@ -36,15 +36,15 @@ My goal: Write clean, readable, meaningful code.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner"/>
 </p>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varshiniv-dev/varshiniv-dev/output/github-contribution-grid-snake-dark.svg&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" "/>
+  <img src="https://raw.githubusercontent.com/varshiniv-dev/varshiniv-dev/output/github-contribution-grid-snake-dark.svg&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner"/>
 </p>
 
