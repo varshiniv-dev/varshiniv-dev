@@ -40,9 +40,6 @@ My goal: Write clean, readable, meaningful code.
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
-</p>
 
 <p align="center">
   <img 
