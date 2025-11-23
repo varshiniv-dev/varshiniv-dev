@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varshini-v" target="_blank">
+  <a href="https://www.linkedin.com/in/varshini-v-ba5243332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vxrzh7" target="_blank">
@@ -21,11 +21,6 @@
   </a>
 </p>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/user.svg" width="22" style="filter: invert(0);"/> 
-  About Me
-</h2>
->
 
 ## About Me
 
