@@ -46,7 +46,7 @@ My goal: Write clean, readable, meaningful code.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshiniv-dev&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=varshiniv-dev&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"
   />
 </p>
 
