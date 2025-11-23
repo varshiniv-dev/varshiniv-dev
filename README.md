@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)"/>
-</p>
+![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" />
