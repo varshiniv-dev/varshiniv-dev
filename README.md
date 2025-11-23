@@ -1,10 +1,6 @@
 ![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/varshini-v-ba5243332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -40,15 +36,15 @@ My goal: Write clean, readable, meaningful code.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshiniv-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" " />
 </p>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varshiniv-dev/varshiniv-dev/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/varshiniv-dev/varshiniv-dev/output/github-contribution-grid-snake-dark.svg&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" "/>
 </p>
 
