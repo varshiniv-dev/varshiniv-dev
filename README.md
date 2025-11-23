@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="<img width="1536" height="672" alt=![pic png](https://github.com/user-attachments/assets/0e202f38-f669-44fd-ae6f-6afbc3428a26)
-" />
-" alt="banner" />
+  <img src="<img width="1536" height="672" alt=![pic png]" />
 </p>
 
 
