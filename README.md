@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading Untitled design_20251123_181307_0000.png…]()
-" alt="banner" />
+  <img src="![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)" alt="banner" />
 </p>
 
 <p align="center">
