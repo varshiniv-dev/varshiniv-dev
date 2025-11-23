@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="banner" />
+  <img src="![Uploading Untitled design_20251123_181307_0000.png…]()
+" alt="banner" />
 </p>
 
 <p align="center">
