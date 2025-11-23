@@ -4,9 +4,11 @@
   <a href="https://www.linkedin.com/in/varshini-v-ba5243332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/vxrzh7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://pin.it/4eJlL0w7e" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
