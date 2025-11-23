@@ -40,10 +40,13 @@ My goal: Write clean, readable, meaningful code.
   />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
+</p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=varshiniv-dev&theme=highcontrast&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshiniv-dev&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" 
   />
 </p>
 
