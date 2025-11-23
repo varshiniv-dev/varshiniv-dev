@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="<img width="1536" height="672" alt=![pic png]" />
+  <img src="YOUR_IMAGE_LINK_HERE" alt="banner" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=true" alt="banner" />
