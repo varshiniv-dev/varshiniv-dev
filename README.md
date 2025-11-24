@@ -37,6 +37,8 @@ My goal: Write clean, readable, meaningful code.
 
 ## GitHub Stats
 
+![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=default)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" 
   />
