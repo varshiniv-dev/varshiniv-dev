@@ -38,12 +38,13 @@ My goal: Write clean, readable, meaningful code.
 
 ## GitHub Stats
 
-
+<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=dark)
+</p>  
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
