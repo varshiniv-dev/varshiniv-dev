@@ -40,26 +40,6 @@ My goal: Write clean, readable, meaningful code.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" 
-  />
-</p>
-
-![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshiniv-dev)](https://github.com/varshiniv-dev/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshiniv-dev&layout=compact)
-
-![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshiniv-dev&theme=dark&show_icons=true)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=varshiniv-dev&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"
-  />
-</p>
-
-
-<p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
   />
