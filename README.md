@@ -1,4 +1,4 @@
-#SOFT-CODE-STUDIO
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , Varshini v</h2>
 
 ![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)
 
@@ -23,18 +23,18 @@
 </p>
 
 
-## About Me
-
+## About Me❤️
+👧
 Hello there! I'm VARSHINI V, a passionate learner who loves solving problems and building things.  
 I enjoy learning new technologies and working on projects that help me grow.  
 Currently exploring: **JavaScript, Python, C, HTML, CSS, and Web Development**.  
 My goal: Write clean, readable, meaningful code.
 
 ## 💫 Fun Facts About Me
--  I love aesthetic designs and creative coding  
--  I learn by experimenting with tiny projects  
--  Code + Music = Perfect combo  
--  Believer of “small steps → big results”
+-  🦋 I love aesthetic designs and creative coding  
+-  📚 I learn by experimenting with tiny projects  
+-  🎧 Code + Music = Perfect combo  
+-  💡 Believer of “small steps → big results”
 
 ## Technologies and Tools editors
 
