@@ -41,7 +41,15 @@ My goal: Write clean, readable, meaningful code.
 
 <p align="center">
 <a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  
+ 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
+  />
+</p>
+
+<div align="center"> 
+
 <p align="center">  
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dark)
@@ -49,18 +57,10 @@ My goal: Write clean, readable, meaningful code.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=dark)
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
-  />
-</p>
-
-<div align="center">
 
 
 </div>
