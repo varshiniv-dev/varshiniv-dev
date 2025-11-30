@@ -42,6 +42,7 @@ My goal: Write clean, readable, meaningful code.
 <p align="center">
 <a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
+<p align="center">  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
