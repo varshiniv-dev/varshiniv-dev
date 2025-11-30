@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , Varshini v</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , Varshini V</h2>
 
 ![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)
 
