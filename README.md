@@ -18,7 +18,7 @@
   </a>
   
   <a href="mailto:varshiniv.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -38,6 +38,16 @@ My goal: Write clean, readable, meaningful code.
 
 ## GitHub Stats
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=dark)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
@@ -46,16 +56,6 @@ My goal: Write clean, readable, meaningful code.
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=github_dark)
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 </div>
 
