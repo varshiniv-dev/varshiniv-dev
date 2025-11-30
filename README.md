@@ -39,7 +39,7 @@ My goal: Write clean, readable, meaningful code.
 ## GitHub Stats
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=dark)
