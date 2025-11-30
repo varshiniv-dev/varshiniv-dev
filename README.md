@@ -31,10 +31,10 @@ Currently exploring: **JavaScript, Python, C, HTML, CSS, and Web Development**.
 My goal: Write clean, readable, meaningful code.
 
 ## 💫 Fun Facts About Me
-- 🦋 I love aesthetic designs and creative coding  
-- 📚 I learn by experimenting with tiny projects  
-- 🎧 Code + Music = Perfect combo  
-- 💡 Believer of “small steps → big results”
+-  I love aesthetic designs and creative coding  
+-  I learn by experimenting with tiny projects  
+-  Code + Music = Perfect combo  
+-  Believer of “small steps → big results”
 
 ## Technologies and Tools editors
 
@@ -45,7 +45,7 @@ My goal: Write clean, readable, meaningful code.
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
