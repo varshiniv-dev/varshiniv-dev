@@ -2,6 +2,8 @@
 
 ![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)
 
+![Visitors](https://komarev.com/ghpvc/?username=varshiniv-dev&color=000000&style=for-the-badge)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/varshini-v-ba5243332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,6 +16,10 @@
   <a href="https://pin.it/4eJlL0w7e" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
+  
+  <a href="mailto:varshiniv.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 
@@ -23,6 +29,39 @@ Hello there! I'm VARSHINI V, a passionate learner who loves solving problems and
 I enjoy learning new technologies and working on projects that help me grow.  
 Currently exploring: **JavaScript, Python, C, HTML, CSS, and Web Development**.  
 My goal: Write clean, readable, meaningful code.
+
+## 💫 Fun Facts About Me
+- 🦋 I love aesthetic designs and creative coding  
+- 📚 I learn by experimenting with tiny projects  
+- 🎧 Code + Music = Perfect combo  
+- 💡 Believer of “small steps → big results”
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
+  />
+</p>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=github_dark)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+
+</div>
+
+<p align="left">
+<a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  
 
 ## Technologies and Tools editors
 
@@ -36,11 +75,3 @@ My goal: Write clean, readable, meaningful code.
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varshiniv-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
-  />
-</p>
