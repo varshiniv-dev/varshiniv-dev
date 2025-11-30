@@ -38,13 +38,16 @@ My goal: Write clean, readable, meaningful code.
 
 ## GitHub Stats
 
+
 <p align="center">
+<a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varshiniv-dev&theme=dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varshiniv-dev&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varshiniv-dev&theme=dark)
-</p>  
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=varshiniv-dev&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
@@ -60,8 +63,6 @@ My goal: Write clean, readable, meaningful code.
 
 </div>
 
-<p align="left">
-<a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
 
 ## Technologies and Tools editors
