@@ -57,6 +57,7 @@ My goal: Write clean, readable, meaningful code.
 p align="center">
 
 <a href="https://github.com/varshiniv-dev ?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab .com/badge/-Click%20Here%20For%20All %20My%20Repos-1F222E?style=for-the -badge&logoColor=white&logo=repo"/></a>
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Varshiniv-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
