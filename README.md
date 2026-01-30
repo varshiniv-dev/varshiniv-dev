@@ -12,13 +12,13 @@
   <a href="https://www.instagram.com/vxrzh7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <a href="https://pin.it/4eJlL0w7e" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
   
   <a href="mailto:varshiniv.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://pin.it/4eJlL0w7e" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
 </p>
 
