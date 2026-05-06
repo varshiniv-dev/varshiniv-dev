@@ -25,9 +25,7 @@
 
 ## About Me❤️
 👧
-Hello there! I'm VARSHINI V, a passionate learner who loves solving problems and building things.  
-I enjoy learning new technologies and working on projects that help me grow.  
-Currently exploring: **JavaScript, Python, C, HTML, CSS, and Web Development**.  
+Hello there! I'm Varshini — a CS student who builds things that look alive. Gamified platforms, anime-themed UIs, EdTech tools. I learn by shipping, not just studying.
 My goal: Write clean, readable, meaningful code.
 
 ## 💫 Fun Facts About Me
