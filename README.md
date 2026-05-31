@@ -49,9 +49,9 @@ CS Engineering Student · Frontend Developer · Product Builder
 
 | Project | What it is | Stack |
 |---|---|---|
-| [FocusFlow](github link) | AI student focus tracker — Product Lead | React · Firebase · Flutter |
-| [CodexQuest](github link) | Gamified coding learning platform | HTML · CSS · JS · Monaco Editor |
-| [Portfolio](github link) | Anime/HUD aesthetic dev portfolio | HTML · CSS · JS |
+| [FocusFlow] https://github.com/varshiniv-dev/FocusFlow | AI student focus tracker — Product Lead | React · Firebase · Flutter |
+| [CodexQuest] https://github.com/varshiniv-dev/codexquest | Gamified coding learning platform | HTML · CSS · JS · Monaco Editor |
+| [Portfolio] https://github.com/varshiniv-dev/portfolio | Anime/HUD aesthetic dev portfolio | HTML · CSS · JS |
 
 ---
 
