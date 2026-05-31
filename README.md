@@ -60,3 +60,5 @@ CS Engineering Student · Frontend Developer · Product Builder
 
 
 ![Varshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshiniv-dev)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=varshiniv-dev&theme=tokyonight)
