@@ -1,61 +1,62 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , This is Varshini</h2>
+# Hey, I'm Varshini V 👋
 
-![pic](https://github.com/user-attachments/assets/27374dbc-709e-431e-994f-9b55f080b80d)
+CS Engineering Student · Frontend Developer · Product Builder
 
-![Visitors](https://komarev.com/ghpvc/?username=varshiniv-dev&color=000000&style=for-the-badge)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/varshini-v-ba5243332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/vxrzh7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="mailto:varshiniv.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://pin.it/4eJlL0w7e" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-</p>
-
-
-## About Me❤️
-👧
-Hello there! I'm Varshini — a CS student who builds things that look alive. Gamified platforms, anime-themed UIs, EdTech tools. I learn by shipping, not just studying.
-My goal: Write clean, readable, meaningful code.
-
-## 💫 Fun Facts About Me
--  🦋 I love aesthetic designs and creative coding  
--  📚 I learn by experimenting with tiny projects  
--  🎧 Code + Music = Perfect combo  
--  💡 Believer of “small steps → big results”
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white) ![Blender](https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-000000.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-
-<p align="center">
-<a href="https://github.com/varshiniv-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<div align="center"> 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varshiniv-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Varshiniv-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshiniv-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Varshiniv-dev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varshiniv-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔭 Currently building **FocusFlow** — an AI-powered focus tracker for students  
+🌱 Learning **Node.js · Express · PostgreSQL** to go full stack  
+🎨 I build interfaces that feel alive — React, GSAP, Canvas, glassmorphism  
+📍 GMIT Mandya · Expected 2028  
+📫 varshiniv.dev@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Varshiniv-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+
+
+
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [FocusFlow](github link) | AI student focus tracker — Product Lead | React · Firebase · Flutter |
+| [CodexQuest](github link) | Gamified coding learning platform | HTML · CSS · JS · Monaco Editor |
+| [Portfolio](github link) | Anime/HUD aesthetic dev portfolio | HTML · CSS · JS |
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![Varshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshiniv-dev&show_icons=true&theme=tokyonight)
