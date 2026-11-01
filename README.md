@@ -9,7 +9,7 @@ Python, machine learning, and AI-powered applications.
 🎨 Interested in creative interfaces, interactive experiences, and product design  
 🌱 Currently learning Node.js, Express, and PostgreSQL  
 🔭 Exploring ideas for student productivity tools  
-📍 Mandya, Karnataka, India  
+📍 Bangalore, Karnataka, India  
 📫 [Email Me](mailto:varshiniv.dev@gmail.com)
 
 ---
@@ -63,6 +63,8 @@ A Flask-based dashboard concept for campus bus monitoring, simulated
 location updates, traffic conditions, delay estimates, and emergency alerts.
 
 **Tech:** Python · Flask · SQLite · HTML · CSS · JavaScript
+
+[Live Demo](https://campus-transport-bus-tracking-system.onrender.com/)
 
 *Tracking and emergency scenarios are simulated.*
 
